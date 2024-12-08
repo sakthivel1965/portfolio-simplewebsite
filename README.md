@@ -1,2 +1,2 @@
 # portfolio-simplewebsite
-project done usin html and css
+project done using html and css
